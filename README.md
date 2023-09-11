@@ -55,3 +55,9 @@ Implement CI/CD pipelines using AWS CodePipeline, Jenkins, or similar tools.
 
 Automate testing and deployment processes for the Lambda function and infrastructure changes using Terraform or configuration management with Ansible
 
+<img width="1108" alt="Screenshot 2023-09-11 at 21 32 21" src="https://github.com/Mamiololo01/Real-time-API-reference/assets/67044030/38ce0a4e-f119-41f4-a52a-a8333b082f20">
+
+<img width="1136" alt="Screenshot 2023-09-11 at 21 42 30" src="https://github.com/Mamiololo01/Real-time-API-reference/assets/67044030/80cd153a-8a0a-4ad6-9c40-1c56c157178d">
+
+<img width="1190" alt="Screenshot 2023-09-11 at 21 46 26" src="https://github.com/Mamiololo01/Real-time-API-reference/assets/67044030/24082b9b-5cec-44a2-8603-5e7084e9a76d">
+
